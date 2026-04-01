@@ -1,40 +1,26 @@
 <div align="center">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=hoveringoverit&style=flat-square&color=0d1117&label=PROFILE+VIEWS" alt="profile views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=hey%2C+i'm+aryan.;frontend+%2B+backend+developer.;i+build+things+that+work.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Your+Name+%F0%9F%91%8B;Frontend+%2B+Backend+Developer;Building+things+that+matter.)](https://git.io/typing-svg)
-
-<br/>
-
-<p align="center">
-  <b>I build fast, functional, and thoughtful web experiences — from pixel-perfect UIs to solid backend logic.</b>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=hoveringoverit&style=flat-square&color=58A6FF&label=profile+views)
 
 </div>
 
----
-
-## 〉 About Me
-
-```javascript
-const me = {
-  name:     "Your Name",
-  role:     "Full-Stack Developer",
-  focus:    ["Frontend", "Backend", "Clean Code"],
-  mindset:  "Ship it. Improve it. Repeat.",
-  currently: "Building something cool 🚀",
-};
-```
-
-I write code that solves real problems — not just demos that look good in screenshots. I care about the full picture: UX, performance, maintainability. Always learning, always shipping.
+<br/>
 
 ---
 
-## 〉 Tech Stack
+### about me
+
+i'm aryan — a student who got into coding and kind of never stopped. i work mostly with javascript and react on the frontend, and i've been picking up python on the side. still early in the journey, but i take it seriously. i like understanding how things actually work, not just copy-pasting until it runs.
+
+<br/>
+
+---
+
+### tech stack
 
 <div align="center">
 
@@ -47,14 +33,16 @@ I write code that solves real problems — not just demos that look good in scre
 
 </div>
 
+<br/>
+
 ---
 
-## 〉 GitHub Stats
+### github stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoveringoverit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringoverit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hoveringoverit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringoverit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
 
 </div>
 
@@ -64,32 +52,32 @@ I write code that solves real problems — not just demos that look good in scre
 
 </div>
 
+<br/>
+
 ---
 
-## 〉 Featured Projects
+### projects
+
+nothing shipped yet — but that's temporary.
+<br/>
+check back soon.
+
+<br/>
+
+---
+
+### connect
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔧 **[Project One](https://github.com/hoveringoverit/project-one)** | Short punchy description of what it does and why it matters. | React · Node.js |
-| ⚡ **[Project Two](https://github.com/hoveringoverit/project-two)** | Short punchy description of what it does and why it matters. | Python · CSS |
-| 🌐 **[Project Three](https://github.com/hoveringoverit/project-three)** | Short punchy description of what it does and why it matters. | JavaScript · HTML |
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.25scs100300402072@iilm.edu)
 
 </div>
 
----
-
-## 〉 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](aryan.25scs1003004027@iilm.edu)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
-  <sub>Built with focus. Improved with feedback. Shipped with confidence.</sub>
+  <sub>building in public. learning out loud.</sub>
 </div>
