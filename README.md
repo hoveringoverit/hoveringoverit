@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=hey%2C+i'm+aryan.;frontend+%2B+backend+developer.;i+build+things+that+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=hey%2C+i'm+Aryan.;frontend+%2B+backend+developer.;i+build+things+that+work.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ### about me
 
-i'm aryan — a student who got into coding and kind of never stopped. i work mostly with javascript and react on the frontend, and i've been picking up python on the side. still early in the journey, but i take it seriously. i like understanding how things actually work, not just copy-pasting until it runs.
+i'm Aryan — a student who got into coding and kind of never stopped. i work mostly with javascript and react on the frontend, and i've been picking up python on the side. still early in the journey, but i take it seriously. i like understanding how things actually work, not just copy-pasting until it runs.
 
 <br/>
 
