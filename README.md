@@ -14,7 +14,7 @@
 
 ### About me
 
-i'm Aryan — a student who got into coding and kind of never stopped. i work mostly with javascript and react on the frontend, and i've been picking up python on the side. still early in the journey, but i take it seriously. i like understanding how things actually work, not just copy-pasting until it runs.
+I'm Aryan. A student who got into coding and kind of never stopped. I work mostly with javascript and react on the frontend, and I've been picking up python on the side. still early in the journey, but I take it seriously. I like understanding how things actually work, not just copy-pasting until it runs.
 
 <br/>
 
@@ -58,9 +58,9 @@ i'm Aryan — a student who got into coding and kind of never stopped. i work mo
 
 ### Projects
 
-nothing shipped yet — but that's temporary.
+Nothing shipped yet. But that's temporary.
 <br/>
-check back soon.
+Check back soon.
 
 <br/>
 
@@ -79,5 +79,5 @@ check back soon.
 ---
 
 <div align="center">
-  <sub>building in public. learning out loud.</sub>
+  <sub>Building in public. Learning out loud.</sub>
 </div>
