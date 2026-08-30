@@ -1,83 +1,20 @@
-<div align="center">
+# About Me:
+Just a Developer and a Student.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aryan.;Full%20Stack%20Developer.;Building%20useful%20stuff.)](https://git.io/typing-svg)
+## Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilovesuckinglemon) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbgp5@gmail.com)
 
-<br/>
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Telegram Bot API](https://img.shields.io/badge/telegram_bot_api-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hoveringoverit&style=flat-square&color=58A6FF&label=profile+views)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishpiked&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=ishpiked&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishpiked&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
-<br/>
-
----
-
-### About me
-
-I'm Aryan. A student who got into coding and kind of never stopped. I work mostly with javascript and react on the frontend, and I've been picking up python on the side. still early in the journey, but I take it seriously. I like understanding how things actually work, not just copy-pasting until it runs.
-
-<br/>
+# Weekly Coding Hours:
+[![wakatime](https://wakatime.com/badge/user/97353564-068b-4354-8612-6a8f7864a5dc.svg)](https://wakatime.com/@97353564-068b-4354-8612-6a8f7864a5dc)
 
 ---
-
-### Tech stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-<br/>
-
----
-
-### Github Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hoveringoverit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringoverit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hoveringoverit&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
----
-
-### Projects
-
-Nothing shipped yet. But that's temporary.
-<br/>
-Check back soon.
-
-<br/>
-
----
-
-### Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.25scs100300402072@iilm.edu)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>Building in public. Learning out loud.</sub>
-</div>
+[![](https://visitcount.itsvg.in/api?id=ishpiked&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
